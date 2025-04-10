@@ -1,0 +1,3 @@
+2025-04-09 21:43:23,157 - ERROR - Erro ao adicionar time '': Nome do time não pode ser vazio ou nulo.
+2025-04-09 21:43:23,157 - ERROR - Erro ao criar partida entre 'Brasil' e 'Argentina': Gols não podem ser negativos.
+2025-04-09 21:43:23,157 - ERROR - Erro ao criar partida entre 'Argentina' e 'Nigéria': Um ou ambos os times não estão registrados.
